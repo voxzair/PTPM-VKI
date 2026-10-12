@@ -1,0 +1,21 @@
+[
+  "test_registration.py::test_blacklisted_login",
+  "test_registration.py::test_empty_login",
+  "test_registration.py::test_invalid_email",
+  "test_registration.py::test_invalid_phone",
+  "test_registration.py::test_login_with_cyrillic",
+  "test_registration.py::test_password_confirmation_not_equal",
+  "test_registration.py::test_password_is_not_written_to_log",
+  "test_registration.py::test_password_mask_is_different_for_different_passwords",
+  "test_registration.py::test_password_mask_is_same_for_same_password",
+  "test_registration.py::test_password_with_latin_letters",
+  "test_registration.py::test_password_without_digit",
+  "test_registration.py::test_password_without_lowercase",
+  "test_registration.py::test_password_without_special_character",
+  "test_registration.py::test_password_without_uppercase",
+  "test_registration.py::test_short_login",
+  "test_registration.py::test_short_password",
+  "test_registration.py::test_successful_registration",
+  "test_registration.py::test_valid_email",
+  "test_registration.py::test_valid_phone"
+]
